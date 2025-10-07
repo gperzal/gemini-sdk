@@ -62,7 +62,7 @@ Y luego la dependencia:
 <dependency>
   <groupId>com.github.gperzal</groupId>
   <artifactId>gemini-sdk</artifactId>
-  <version>v1.2</version>
+  <version>v1.3</version>
 </dependency>
 ```
 
@@ -73,7 +73,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.gperzal:gemini-sdk:v1.2'
+    implementation 'com.github.gperzal:gemini-sdk:v1.3'
 }
 ```
 
@@ -85,7 +85,7 @@ Crea un archivo `.env` en la raíz de tu proyecto con las variables:
 
 ```
 GEMINI_API_KEY=tu_api_key_de_google
-GEMINI_MODEL=gemini-1.5-flash
+GEMINI_MODEL=gemini-2.0-flash
 ```
 
 > 💡 Puedes obtener tu API key desde [Google AI Studio](https://aistudio.google.com/app/apikey).
