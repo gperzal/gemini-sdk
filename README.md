@@ -1,6 +1,6 @@
 # ☕ Gemini SDK for Java
 
-![JitPack](https://jitpack.io/v/gperzal/gemini-sdk.svg)
+[![](https://jitpack.io/v/gperzal/gemini-sdk.svg)](https://jitpack.io/#gperzal/gemini-sdk)
 ![Java](https://img.shields.io/badge/Java-21-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/build-success-brightgreen.svg)
