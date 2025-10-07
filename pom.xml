@@ -27,6 +27,7 @@
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
       <version>2.0.13</version>
+      <scope>compile</scope>
     </dependency>
 
     <!-- JSON parser -->
@@ -34,6 +35,7 @@
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
       <version>2.17.2</version>
+      <scope>compile</scope>
     </dependency>
 
     <!-- Dotenv para leer .env -->
@@ -41,6 +43,7 @@
       <groupId>io.github.cdimascio</groupId>
       <artifactId>dotenv-java</artifactId>
       <version>3.2.0</version>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
 
